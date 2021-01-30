@@ -2,7 +2,7 @@
 ---
 title: "サンプルコード集"
 linkTitle: "サンプルコード集"
-weight: 3
+weight: 1
 date: 2017-01-05
 description: >
   参考にしてね
