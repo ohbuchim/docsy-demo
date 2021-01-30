@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AWS Machine Learning – AWS Machine Learning</title>
-    <link>https://ohbuchim.github.io/docsy-demo/</link>
+    <link>https://tkazusa.github.io/docsy-demo/</link>
     <description>Recent content on AWS Machine Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://ohbuchim.github.io/docsy-demo/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://tkazusa.github.io/docsy-demo/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -14,15 +14,15 @@
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://ohbuchim.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/Group%203-featured_hu8aab7dc941ca4260b7eca80b7705def9_32343_640x0_resize_catmullrom_2.png" width="640" height="640"/>]]>
+        <![CDATA[<img src="https://tkazusa.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/Group%203-featured_hu8aab7dc941ca4260b7eca80b7705def9_32343_640x0_resize_catmullrom_2.png" width="640" height="640"/>]]>
         
         
 
@@ -32,7 +32,7 @@
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://ohbuchim.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://tkazusa.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -49,7 +49,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 310px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://ohbuchim.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/Group%203-featured_hu8aab7dc941ca4260b7eca80b7705def9_32343_300x300_fill_catmullrom_smart1_2.png&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://tkazusa.github.io/docsy-demo/blog/2019/10/10/the-fifth-blog-post/Group%203-featured_hu8aab7dc941ca4260b7eca80b7705def9_32343_300x300_fill_catmullrom_smart1_2.png&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -221,7 +221,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -356,10 +356,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -526,7 +526,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -661,10 +661,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -831,7 +831,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -966,10 +966,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -1136,7 +1136,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -1271,10 +1271,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -1441,7 +1441,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -1576,10 +1576,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -1746,7 +1746,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -1881,10 +1881,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -2051,7 +2051,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -2186,10 +2186,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -2356,7 +2356,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -2491,10 +2491,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -2661,7 +2661,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -2796,10 +2796,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -2966,7 +2966,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -3101,10 +3101,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -3271,7 +3271,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -3406,10 +3406,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -3576,7 +3576,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -3711,10 +3711,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -3881,7 +3881,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -4016,10 +4016,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -4186,7 +4186,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -4321,10 +4321,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -4491,7 +4491,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -4626,10 +4626,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -4796,7 +4796,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -4931,10 +4931,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fifth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/10/the-fifth-blog-post/</guid>
       <description>
         
         
@@ -5101,7 +5101,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -5236,10 +5236,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The fourth blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/09/the-fourth-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/09/the-fourth-blog-post/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/09/the-fourth-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/09/the-fourth-blog-post/</guid>
       <description>
         
         
@@ -5406,7 +5406,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -5541,10 +5541,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: The third blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/08/the-third-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/08/the-third-blog-post/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/08/the-third-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/08/the-third-blog-post/</guid>
       <description>
         
         
@@ -5711,7 +5711,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -5846,15 +5846,15 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: Easy documentation with Docsy</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_2.png" width="640" height="253"/>]]>
+        <![CDATA[<img src="https://tkazusa.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_2.png" width="640" height="253"/>]]>
         
         &lt;p&gt;&lt;strong&gt;This is a typical blog post that includes images.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The front matter specifies the date of the blog post, its title, a short description that will be displayed on the blog landing page, and its author.&lt;/p&gt;
@@ -5868,7 +5868,7 @@ bar := &amp;quot;foo&amp;quot;;
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://tkazusa.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -5892,7 +5892,7 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 
 
 &lt;div class=&#34;card rounded p-2 td-post-card mb-4 mt-4&#34; style=&#34;max-width: 610px&#34;&gt;
-	&lt;img class=&#34;card-img-top&#34; src=&#34;https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
+	&lt;img class=&#34;card-img-top&#34; src=&#34;https://tkazusa.github.io/docsy-demo/blog/2018/10/06/easy-documentation-with-docsy/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_2.png&#34; width=&#34;600&#34; height=&#34;300&#34;&gt;
 	
 	&lt;div class=&#34;card-body px-0 pt-2 pb-0&#34;&gt;
 		&lt;p class=&#34;card-text&#34;&gt;
@@ -5908,10 +5908,10 @@ Fetch and scale an image in the upcoming Hugo 0.43.
     
     <item>
       <title>Blog: The second blog post</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/the-second-blog-post/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/10/06/the-second-blog-post/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/10/06/the-second-blog-post/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/10/06/the-second-blog-post/</guid>
       <description>
         
         
@@ -6078,7 +6078,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
@@ -6213,10 +6213,10 @@ bar := &amp;quot;foo&amp;quot;;
     
     <item>
       <title>Blog: Another Great Release</title>
-      <link>https://ohbuchim.github.io/docsy-demo/blog/2018/01/04/another-great-release/</link>
+      <link>https://tkazusa.github.io/docsy-demo/blog/2018/01/04/another-great-release/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ohbuchim.github.io/docsy-demo/blog/2018/01/04/another-great-release/</guid>
+      <guid>https://tkazusa.github.io/docsy-demo/blog/2018/01/04/another-great-release/</guid>
       <description>
         
         
@@ -6383,7 +6383,7 @@ Dixi ad aestum.&lt;/p&gt;
 &lt;td&gt;1982&lt;/td&gt;
 &lt;td&gt;Epic Records&lt;/td&gt;
 &lt;td&gt;Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&amp;amp;B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical&lt;/td&gt;
-&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&#39;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
+&lt;td&gt;Wanna Be Startin&amp;rsquo; Somethin&amp;rsquo;, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Prince&lt;/td&gt;
