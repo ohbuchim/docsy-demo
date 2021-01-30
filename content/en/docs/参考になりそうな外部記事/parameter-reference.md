@@ -1,6 +1,6 @@
 ---
 title: "なにかの詳細情報"
-linkTitle: "なにかの詳細情報"
+linkTitle: "なにかの詳細情"
 date: 2017-01-05
 description: >
   なにかの詳細な情報
