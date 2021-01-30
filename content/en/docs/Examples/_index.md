@@ -1,15 +1,14 @@
 
 ---
-title: "Examples"
-linkTitle: "Examples"
+title: "サンプルコード集"
+linkTitle: "サンプルコード集"
 weight: 3
 date: 2017-01-05
 description: >
   参考にしてね
 ---
 
-{{% pageinfo %}}
 ここには参考にしてもらう Examples を置いたり
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+
+- [Amazon SageMaker Examples JP](https://github.com/aws-samples/amazon-sagemaker-examples-jp)
 
