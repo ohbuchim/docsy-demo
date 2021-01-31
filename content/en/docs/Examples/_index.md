@@ -1,17 +1,14 @@
 
 ---
-title: "Examples"
-linkTitle: "Examples"
-weight: 3
+title: "サンプルコード集"
+linkTitle: "サンプルコード集"
+weight: 1
 date: 2017-01-05
 description: >
-  See your project in action!
+  参考にしてね
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+ここには参考にしてもらう Examples を置いたり
 
-Do you have any example **applications** or **code** for your users in your repo or elsewhere? Link to your examples here.
-
+- [Amazon SageMaker Examples JP](https://github.com/aws-samples/amazon-sagemaker-examples-jp)
 
