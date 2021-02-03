@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://tkazusa.github.io/docsy-demo/fa/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-30T20:52:53+09:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://tkazusa.github.io/docsy-demo/no/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-30T20:52:53+09:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://tkazusa.github.io/docsy-demo/en/sitemap.xml</loc>
-		
-	   	<lastmod>2021-01-30T13:35:12+00:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tkazusa.github.io/docsy-demo/</loc>
+  </url>
+  
+</urlset>
